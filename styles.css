@@ -1,0 +1,14 @@
+body {
+  background-color: lightcoral;
+}
+
+h1, h2 {
+  color: antiquewhite;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: xx-large;
+  margin-bottom: 0px;
+}
+
+p {
+  margin-top: 5px;
+}
